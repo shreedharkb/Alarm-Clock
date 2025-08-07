@@ -11,7 +11,5 @@ Lightweight and easy to use
 Requirements
 Python 3.13.5
 
-playsound module (pip install playsound)
 
-Author:
-Shreedhar K B
+
